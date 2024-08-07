@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Claudia Alberdi Rodríguez</h1>
-<h3 align="center">Desarrolladora Full Stack</h3>
+<h3 align="center">Full Stack Developer</h3>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/claudia-alberdi-rodriguez-8069871b6" target="blank">
