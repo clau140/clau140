@@ -6,7 +6,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Contacto:</h3>
+
 <p align="left">
   <strong>Email:</strong> <a href="mailto:clau.alberdi89@gmail.com">clau.alberdi89@gmail.com</a>
 </p>
@@ -54,6 +54,6 @@
 </p>
 <h3 align="left">Educación:</h3>
 <p align="left">
-  Licenciatura en Tecnologías de la Información (2 años completados)<br>
+  Licenciatura en Tecnologías de la Información (2 años)<br>
   Full Stack Web Developer, Henry Bootcamp, 700 horas completadas de formación teórica y práctica.
 </p>
